@@ -1,1 +1,1 @@
-# RazorPay-UI-Clone
+# RazorPay-UI-Clone made by using Tailwind which was very fun to do, every small detail to big images can be styled using tailwind that is done here as well without jumping from one file to another and doing the same styling just by staying at HTML and using Tailwind with it! 
